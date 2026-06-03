@@ -10,16 +10,15 @@
 - 依赖库：EasyX图形库
 
 ## 📁 项目文件目录
-lianliankan/
-├── lianliankan.sln // VS 项目解决方案，双击打开工程
-├── .gitignore // Git 配置，过滤编译缓存文件
-├── README.md // 项目说明文档
-└── lianliankan/
-├── lianliankan.vcxproj // VS 工程配置
-├── lianliankan.vcxproj.filters
-├── lianliankan.vcxproj.user
-├── 源.cpp // 连连看完整主源码
-└── images/ // 1~10.png 图案素材文件夹
+- lianliankan.sln        VS 项目解决方案
+- .gitignore            Git 忽略配置
+- README.md             项目说明文档
+- lianliankan/
+  - lianliankan.vcxproj      VS 工程文件
+  - lianliankan.vcxproj.filters
+  - lianliankan.vcxproj.user
+  - 源.cpp                 连连看完整源码
+  - images/                图片素材（1~10.png）
 
 
 ## 🎮 操作说明
