@@ -52,7 +52,7 @@
 ## 🖼️ 运行效果图
 ![开始界面](./screenshot/start.png)
 ![游戏界面](./screenshot/game.png)
-![胜利界面](./screenshot/fail.png)
+![失败界面](./screenshot/fail.png)
 
 ## 📝 项目用途
 C++课程设计、EasyX实训作业、C语言大作业参考源码
