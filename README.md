@@ -49,5 +49,10 @@
 - 失败①：倒计时剩余时间归零
 - 失败②：棋盘剩余方块无任何可配对消除
 
+## 🖼️ 运行效果图
+![开始界面](./screenshot/start.png)
+![游戏界面](./screenshot/game.png)
+![胜利界面](./screenshot/fail.png)
+
 ## 📝 项目用途
 C++课程设计、EasyX实训作业、C语言大作业参考源码
